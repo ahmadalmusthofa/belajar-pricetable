@@ -134,14 +134,14 @@ html {
 }
 
 body {
-  background-color: #529ffa;
+  background-color: #76abae;
   display: flex;
   justify-content: center;
   min-height: 100vh;
 }
 
 .panel {
-  background-color: white;
+  background-color: #e2dfd0;
   border-radius: 10px;
   padding: 15px 25px;
   width: 100%;
@@ -160,7 +160,7 @@ body {
   border-bottom: none;
 }
 
-.pricing.img {
+.pricing-img {
   margin-bottom: 25px;
   max-width: 100%;
 }
@@ -179,7 +179,7 @@ body {
 .pricing-features-item {
   font-weight: 600;
   letter-spacing: 1px;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.5;
   padding: 15px 0;
   border-top: 1px solid #e1f1ff;
